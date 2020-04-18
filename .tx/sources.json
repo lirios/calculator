@@ -1,0 +1,13 @@
+[
+  {
+    "type": "ts",
+    "directory": "src",
+    "output_path": "translations/liri-calculator.ts"
+  },
+  {
+    "type": "desktop",
+    "source_file": "data/io.liri.Calculator.desktop.in",
+    "file_filter": "translations/io.liri.Calculator_<lang>.desktop",
+    "output_path": "data/io.liri.Calculator.desktop"
+  }
+]

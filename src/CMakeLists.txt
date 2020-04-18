@@ -1,5 +1,5 @@
 # Translations
-file(GLOB LiriCalculator_TRANSLATIONS "${CMAKE_CURRENT_SOURCE_DIR}/translations/*_*.ts")
+file(GLOB LiriCalculator_TRANSLATIONS "${CMAKE_SOURCE_DIR}/translations/*_*.ts")
 qt5_add_translation(LiriCalculator_QM_FILES ${LiriCalculator_TRANSLATIONS})
 if(WIN32)
     set(_translations_destdir "${CMAKE_CURRENT_BINARY_DIR}/translations")
