@@ -9,6 +9,8 @@ Liri Calculator
 
 A cross-platform material design calculator.
 
+![Screenshot](https://raw.githubusercontent.com/lirios/text/develop/.project/screenshots/calculator1.png)
+
 ## Dependencies
 
 Qt >= 5.10.0 with at least the following modules is required:
