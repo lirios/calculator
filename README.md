@@ -9,7 +9,7 @@ Liri Calculator
 
 A cross-platform material design calculator.
 
-![Screenshot](https://raw.githubusercontent.com/lirios/text/develop/.project/screenshots/calculator1.png)
+![Screenshot](https://raw.githubusercontent.com/lirios/calculator/develop/.project/screenshots/calculator1.png)
 
 ## Dependencies
 
