@@ -5,8 +5,7 @@ on:
     - cron: '0 0 * * *'
   repository_dispatch:
     types:
-      - opened
-      - deleted
+      - transifex
 
 jobs:
   update-translations:
