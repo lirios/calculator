@@ -12,3 +12,9 @@ type = PO
 source_lang = en
 source_file = translations/data/desktop/desktop.pot
 file_filter = translations/data/desktop/<lang>.po
+
+[liri-calculator.metainfo-file]
+type = PO
+source_lang = en
+source_file = translations/data/metainfo/metainfo.pot
+file_filter = translations/data/metainfo/<lang>.po
