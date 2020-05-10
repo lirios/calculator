@@ -7,7 +7,8 @@
   {
     "type": "desktop",
     "source_file": "data/io.liri.Calculator.desktop.in",
-    "file_filter": "translations/io.liri.Calculator_<lang>.desktop",
-    "output_path": "data/io.liri.Calculator.desktop"
+    "dest_file": "data/io.liri.Calculator.desktop",
+    "file_filter": "translations/data/desktop/<lang>.po",
+    "output_path": "translations/data/desktop/desktop.pot"
   }
 ]

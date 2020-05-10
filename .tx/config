@@ -8,7 +8,7 @@ source_file = translations/liri-calculator.ts
 file_filter = translations/liri-calculator_<lang>.ts
 
 [liri-calculator.desktop-file]
-type = DESKTOP
+type = PO
 source_lang = en
-source_file = data/io.liri.Calculator.desktop.in
-file_filter = translations/io.liri.Calculator_<lang>.desktop
+source_file = translations/data/desktop/desktop.pot
+file_filter = translations/data/desktop/<lang>.po

@@ -1,9 +1,8 @@
 [Desktop Entry]
-Name=Liri Calculator
-GenericName=Calculator
-Comment=Perform arithmetic and scientific calculations
-Keywords=calculation;arithmetic;scientific;
-#TRANSLATIONS
+_Name=Liri Calculator
+_GenericName=Calculator
+_Comment=Perform arithmetic and scientific calculations
+_Keywords=calculation;arithmetic;scientific;
 Exec=liri-calculator
 Icon=io.liri.Calculator
 Terminal=false
