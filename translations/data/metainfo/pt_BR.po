@@ -1,0 +1,55 @@
+# 
+# Translators:
+# Luiz Fernando Ranghetti <elchevive68@gmail.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-05-13 00:06+0000\n"
+"PO-Revision-Date: 2020-05-10 16:26+0000\n"
+"Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>, 2020\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/lirios/teams/71982/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. (itstool) path: component/name
+#: data/io.liri.Calculator.appdata.xml.in:5
+msgid "Liri Calculator"
+msgstr "Liri Calculator"
+
+#. (itstool) path: component/summary
+#: data/io.liri.Calculator.appdata.xml.in:6
+msgid "Perform arithmetic or scientific calculations"
+msgstr "Execute cálculos aritméticos ou científicos"
+
+#. (itstool) path: component/developer_name
+#: data/io.liri.Calculator.appdata.xml.in:7
+msgid "The Liri developers"
+msgstr "Os desenvolvedores do Liri"
+
+#. (itstool) path: description/p
+#: data/io.liri.Calculator.appdata.xml.in:11
+msgid ""
+"Liri Calculator is a Material Design application that solves mathematical "
+"equations."
+msgstr ""
+"O Liri Calculator é um aplicativo Material Design que resolve equações "
+"matemáticas."
+
+#. (itstool) path: description/p
+#: data/io.liri.Calculator.appdata.xml.in:14
+msgid ""
+"At first it appears to be a simple calculator with only basic arithmetic "
+"operations. However it features a flexible expression parser with support "
+"for symbolic computation, a large set of built-in functions and constants "
+"and works with different data types like numbers, big numbers, complex "
+"numbers, fractions, units and matrices."
+msgstr ""
+"A princípio, parece ser uma calculadora simples, com apenas operações "
+"aritméticas básicas. No entanto, possui um analisador de expressão flexível "
+"com suporte para computação simbólica, um grande conjunto de funções e "
+"constantes integradas e trabalha com diferentes tipos de dados como números,"
+" números grandes, números complexos, frações, unidades e matrizes."
