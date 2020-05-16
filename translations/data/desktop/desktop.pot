@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-15 00:06+0000\n"
+"POT-Creation-Date: 2020-05-16 00:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,22 +17,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. (desktop-to-pot) Name
+#. (desktop-to-pot) "Name" entry
 #: io.liri.Calculator.desktop.in:2
+msgctxt "Name entry"
 msgid "Liri Calculator"
 msgstr ""
 
-#. (desktop-to-pot) GenericName
+#. (desktop-to-pot) "GenericName" entry
 #: io.liri.Calculator.desktop.in:3
+msgctxt "GenericName entry"
 msgid "Calculator"
 msgstr ""
 
-#. (desktop-to-pot) Comment
+#. (desktop-to-pot) "Comment" entry
 #: io.liri.Calculator.desktop.in:4
+msgctxt "Comment entry"
 msgid "Perform arithmetic and scientific calculations"
 msgstr ""
 
-#. (desktop-to-pot) Keywords
+#. (desktop-to-pot) "Keywords" entry
 #: io.liri.Calculator.desktop.in:5
+msgctxt "Keywords entry"
 msgid "calculation;arithmetic;scientific;"
 msgstr ""
