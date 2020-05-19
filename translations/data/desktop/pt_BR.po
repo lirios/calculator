@@ -4,7 +4,6 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Pier Luigi Fiorini <pierluigi.fiorini@gmail.com>, 2020
 # Luiz Fernando Ranghetti <elchevive68@gmail.com>, 2020
 # 
 #, fuzzy
@@ -12,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-15 00:06+0000\n"
+"POT-Creation-Date: 2020-05-19 00:07+0000\n"
 "PO-Revision-Date: 2020-05-10 16:19+0000\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>, 2020\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/lirios/teams/71982/pt_BR/)\n"
@@ -22,22 +21,26 @@ msgstr ""
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#. (desktop-to-pot) Name
+#. (desktop-to-pot) "Name" entry
 #: io.liri.Calculator.desktop.in:2
+msgctxt "Name entry"
 msgid "Liri Calculator"
 msgstr "Liri Calculator"
 
-#. (desktop-to-pot) GenericName
+#. (desktop-to-pot) "GenericName" entry
 #: io.liri.Calculator.desktop.in:3
+msgctxt "GenericName entry"
 msgid "Calculator"
 msgstr "Calculadora"
 
-#. (desktop-to-pot) Comment
+#. (desktop-to-pot) "Comment" entry
 #: io.liri.Calculator.desktop.in:4
+msgctxt "Comment entry"
 msgid "Perform arithmetic and scientific calculations"
 msgstr "Execute cálculos aritméticos e científicos"
 
-#. (desktop-to-pot) Keywords
+#. (desktop-to-pot) "Keywords" entry
 #: io.liri.Calculator.desktop.in:5
+msgctxt "Keywords entry"
 msgid "calculation;arithmetic;scientific;"
 msgstr "cálculo;aritmética;científica;"
