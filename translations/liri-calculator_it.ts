@@ -42,7 +42,7 @@
     <message>
         <location filename="../src/ui/CalculationZone.qml" line="106"/>
         <source>Toggle expanded</source>
-        <translation type="unfinished"/>
+        <translation>Attiva/disattiva vista espansa</translation>
     </message>
 </context>
 <context>
