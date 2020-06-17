@@ -42,7 +42,7 @@
     <message>
         <location filename="../src/ui/CalculationZone.qml" line="106"/>
         <source>Toggle expanded</source>
-        <translation>Поменять увелечение</translation>
+        <translation>Поменять увеличение</translation>
     </message>
 </context>
 <context>
@@ -63,7 +63,7 @@
     <message>
         <location filename="../src/ui/Main.qml" line="218"/>
         <source>saved</source>
-        <translation>Сохранено</translation>
+        <translation>сохранено</translation>
     </message>
 </context>
 </TS>
