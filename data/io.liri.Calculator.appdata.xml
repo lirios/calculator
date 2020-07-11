@@ -1,22 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2019 Pier Luigi Fiorini -->
 <component type="desktop">
   <id>io.liri.Calculator</id>
   <name>Liri Calculator</name>
+  <name xml:lang="da">Liri Lommeregner</name>
+  <name xml:lang="it">Calcolatrice Liri</name>
+  <name xml:lang="lt">Liri skaičiuotuvas</name>
+  <name xml:lang="pt-BR">Liri Calculator</name>
+  <name xml:lang="ru">Калькулятор Liri</name>
+  <name xml:lang="tr">Liri Hesap Makinesi</name>
+  <name xml:lang="zh-CN">Liri 计算器</name>
   <summary>Perform arithmetic or scientific calculations</summary>
+  <summary xml:lang="da">Udfør aritmetiske eller videnskabelige udregninger</summary>
+  <summary xml:lang="it">Esegui calcoli aritimentici o scientifici</summary>
+  <summary xml:lang="lt">Atlikti aritmetinius ar mokslinius skaičiavimus</summary>
+  <summary xml:lang="pt-BR">Execute cálculos aritméticos ou científicos</summary>
+  <summary xml:lang="ru">Проведение арифметических и инженерных расчетов</summary>
+  <summary xml:lang="tr">Aritmetik ve bilimsel hesaplamalar gerçekleştir</summary>
+  <summary xml:lang="zh-CN">执行算术和科学计算</summary>
   <developer_name>The Liri developers</developer_name>
+  <developer_name xml:lang="da">Liri-udviklerne</developer_name>
+  <developer_name xml:lang="it">Gli sviluppatori di Liri</developer_name>
+  <developer_name xml:lang="lt">Liri plėtotojai</developer_name>
+  <developer_name xml:lang="pt-BR">Os desenvolvedores do Liri</developer_name>
+  <developer_name xml:lang="ru">Разработчики Liri</developer_name>
+  <developer_name xml:lang="tr">Liri geliştiricileri</developer_name>
+  <developer_name xml:lang="zh-CN">Liri 开发者</developer_name>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0+</project_license>
   <description>
     <p>
       Liri Calculator is a Material Design application that solves mathematical equations.
     </p>
+    <p xml:lang="da">Liri Lommeregner er et Material Design-program som løser matematiske ligninger.</p>
+    <p xml:lang="it">La Calcolatrice Liri è un'applicazione in Material Design che risolve equazioni matematiche.</p>
+    <p xml:lang="pt-BR">O Liri Calculator é um aplicativo Material Design que resolve equações matemáticas.</p>
+    <p xml:lang="tr">Liri Hesap Makinesi, matematiksel denklemleri çözen Materyal Tasarımlı uygulamadır.</p>
+    <p xml:lang="zh-CN">Liri 计算器是一个 Material 设计的，用于解决数学计算的应用程序。</p>
     <p>
       At first it appears to be a simple calculator with only basic arithmetic operations.
       However it features a flexible expression parser with support for symbolic
       computation, a large set of built-in functions and constants and works with different
       data types like numbers, big numbers, complex numbers, fractions, units and matrices.
     </p>
+    <p xml:lang="da">Ved første blik ser det ud til at være en simpel lommeregner, kun med grundlæggende aritmetiske operationer. Men den har en fleksibel udtryksfortolker med understøttelse af symbolske beregninger, et stort sæt indbyggede funktioner og konstanter, og den virker med forskellige datatyper såsom tal, store tal, komplekse tal, brøker, enheder og matricer.</p>
+    <p xml:lang="it">Sebbene inizialmente sembri una calcolatrice che esegue operazioni aritmentiche di base, utilizza invece un potente interprete di espressioni con supporto per il calcolo simbolico e una vasta libreria di funzioni e costanti già definite. Può operare su tipi di dati diversi come numeri, anche di notevoli dimensioni, frazioni, unità e matrici.</p>
+    <p xml:lang="pt-BR">A princípio, parece ser uma calculadora simples, com apenas operações aritméticas básicas. No entanto, possui um analisador de expressão flexível com suporte para computação simbólica, um grande conjunto de funções e constantes integradas e trabalha com diferentes tipos de dados como números, números grandes, números complexos, frações, unidades e matrizes.</p>
+    <p xml:lang="tr">İlkin yalnızca basit aritmetik işlemlerini yapabilen basit hesap makinesi olması için tasarlandı. Yine de simgesel hesaplama desteğiyle esnek ifade ayıklayıcı; geniş dahili fonksiyonlar ve sabitler takımı; sayılar, büyük sayılar, kompleks sayılar, kesirler, birimler ve matrisler gibi veri türleriyle çalışma gibi özellikleri barındırır.</p>
+    <p xml:lang="zh-CN">初看它仅仅是一个能够进行简单的算数运算的计算器。但它其实带有了灵活的表达式解析器，支持符号计算、自带很多函数和常数，还支持大数计算、复数、分数、单位和矩阵运算。</p>
   </description>
   <launchable type="desktop-id">io.liri.Calculator.desktop</launchable>
   <provides>
