@@ -36,10 +36,10 @@ msgstr "Калькулятор"
 #: io.liri.Calculator.desktop.in:4
 msgctxt "Comment entry"
 msgid "Perform arithmetic and scientific calculations"
-msgstr ""
+msgstr "Проведение арифметических и инженерных расчетов"
 
 #. (desktop-to-pot) "Keywords" entry
 #: io.liri.Calculator.desktop.in:5
 msgctxt "Keywords entry"
 msgid "calculation;arithmetic;scientific;"
-msgstr ""
+msgstr "calculation;arithmetic;scientific;"
