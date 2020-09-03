@@ -35,6 +35,8 @@ msgid ""
 "Liri Calculator is a Material Design application that solves mathematical "
 "equations."
 msgstr ""
+"Liri Calculator - это приложение в стиле material design, выполняющее "
+"математические вычисления."
 
 #. (itstool) path: description/p
 #: data/io.liri.Calculator.appdata.xml.in:14
