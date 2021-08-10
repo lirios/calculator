@@ -4,6 +4,7 @@
   <id>io.liri.Calculator</id>
   <name>Liri Calculator</name>
   <name xml:lang="da">Liri Lommeregner</name>
+  <name xml:lang="de">Liri Taschenrechner</name>
   <name xml:lang="it">Calcolatrice Liri</name>
   <name xml:lang="lt">Liri skaičiuotuvas</name>
   <name xml:lang="pt-BR">Liri Calculator</name>
@@ -12,6 +13,7 @@
   <name xml:lang="zh-CN">Liri 计算器</name>
   <summary>Perform arithmetic or scientific calculations</summary>
   <summary xml:lang="da">Udfør aritmetiske eller videnskabelige udregninger</summary>
+  <summary xml:lang="de">Arithmetische oder wissenschaftliche Berechnungen durchführen</summary>
   <summary xml:lang="it">Esegui calcoli aritimentici o scientifici</summary>
   <summary xml:lang="lt">Atlikti aritmetinius ar mokslinius skaičiavimus</summary>
   <summary xml:lang="pt-BR">Execute cálculos aritméticos ou científicos</summary>
@@ -20,6 +22,7 @@
   <summary xml:lang="zh-CN">执行算术和科学计算</summary>
   <developer_name>The Liri developers</developer_name>
   <developer_name xml:lang="da">Liri-udviklerne</developer_name>
+  <developer_name xml:lang="de">Die Liri-Entwickler</developer_name>
   <developer_name xml:lang="it">Gli sviluppatori di Liri</developer_name>
   <developer_name xml:lang="lt">Liri plėtotojai</developer_name>
   <developer_name xml:lang="pt-BR">Os desenvolvedores do Liri</developer_name>
@@ -33,6 +36,7 @@
       Liri Calculator is a Material Design application that solves mathematical equations.
     </p>
     <p xml:lang="da">Liri Lommeregner er et Material Design-program som løser matematiske ligninger.</p>
+    <p xml:lang="de">Liri Taschenrechner ist eine Material-Design-Anwendung, die mathematische Gleichungen löst.</p>
     <p xml:lang="it">La Calcolatrice Liri è un'applicazione in Material Design che risolve equazioni matematiche.</p>
     <p xml:lang="pt-BR">O Liri Calculator é um aplicativo Material Design que resolve equações matemáticas.</p>
     <p xml:lang="ru">Liri Calculator - это приложение в стиле material design, выполняющее математические вычисления.</p>
