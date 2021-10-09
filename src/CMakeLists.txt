@@ -49,3 +49,5 @@ set_target_properties(LiriCalculator PROPERTIES
     MACOSX_BUNDLE_ICON_FILE "io.liri.Calculator"
     MACOSX_BUNDLE_SHORT_VERSION_STRING "${PROJECT_VERSION}"
 )
+
+liri_finalize_executable(LiriCalculator)
