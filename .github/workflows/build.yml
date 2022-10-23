@@ -21,7 +21,8 @@ jobs:
     uses: lirios/.github/.github/workflows/build-linux-qt5.yml@master
     with:
       build_dependencies: "cmake-shared fluid"
-  windows:
-    uses: lirios/.github/.github/workflows/build-windows.yml@master
+  windows-qt5:
+    uses: lirios/.github/.github/workflows/build-windows-qt5.yml@master
     with:
+      build_dependencies: "cmake-shared fluid"
       output_name: LiriCalculator
